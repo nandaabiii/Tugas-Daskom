@@ -13,7 +13,7 @@
 #   Password : 123
 # ============================================================
 
-from ui_macos import App
+from ui import App
 
 if __name__ == "__main__":
     app = App()
