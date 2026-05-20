@@ -1,6 +1,7 @@
 # ============================================================
 # main.py  —  Entry Point
 # Sistem Informasi Akademik Mahasiswa
+# macOS Sonoma Inspired Design
 # ============================================================
 #
 # Cara jalankan:
@@ -12,7 +13,7 @@
 #   Password : 123
 # ============================================================
 
-from ui import App
+from ui_macos import App
 
 if __name__ == "__main__":
     app = App()
